@@ -1,0 +1,19 @@
+#serviceicons{
+    margin-top: 40px;
+    display: flex;
+    width: 100%;
+    background-color: rgb(198, 245, 105);
+}
+#serviceicons div{
+    display: flex;
+    width: 25%;
+    justify-content: center;
+}
+#serviceicons div p{
+    font-size: larger;
+    font-weight: 600;
+}
+#serviceicons div img{
+    margin: 16px;
+    margin-left: 5px;
+}

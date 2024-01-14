@@ -1,0 +1,42 @@
+#category{
+    width: 25%;
+    margin-top: 20px;   
+}
+#categoryheader{
+    width: 85%;
+    height: 45px;
+    background-color: #f5877d;
+    border: 1px solid black;
+}
+
+div h3{
+    font-size: x-large;
+    display: inline-block;
+    padding-left: 25px;
+    margin-top: 12px;
+}
+
+#img1{
+    margin-left: 50px;
+    margin-bottom: 5px;
+   vertical-align: middle;
+}
+#itemheader{
+    border: 1px solid black;
+    margin: 0%;
+    width: 85%;
+    padding: 0%;
+}
+#itemheader li{
+    list-style-type: none;
+    padding-right: 0%;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+#itemheader li a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+

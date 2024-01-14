@@ -1,0 +1,40 @@
+#salebanner{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 70px;
+}
+#salebanner div{
+    width: 49%;
+    background-color: rgb(195, 229, 243);
+}
+#salebanner div img{
+    float: left;
+    margin: 10px;
+    width: 40%;
+}
+.bannerinfo{
+    width: 60%;
+    height: 250px;
+    float: left;
+    margin: 10px;
+}
+.bannerinfo p{
+    color: red;
+    font-size: 18px;
+    font-weight: 900;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.bannerinfo h1{
+    margin-left: 20px;
+    font-size: 35px;
+}
+.bannerinfo button{
+    margin-left:160px;
+    padding: 10px 18px;
+    font-size: 17px;
+    font-weight: 600;
+    background-color: rgb(195, 229, 243);
+    color: red;
+    border: 1px solid red;
+}

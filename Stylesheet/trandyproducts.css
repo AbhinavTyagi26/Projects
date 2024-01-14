@@ -1,0 +1,37 @@
+#trandyheading h1{
+   margin-left: 450px;
+}
+#trandyproducts{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+#trandyproducts div{
+    width: 23%;
+    box-shadow: 1px 1px 10px 5px black;
+}
+
+#trandyproducts div img{
+    border-bottom: 1px solid black;
+}
+#trandyproducts div p{
+  margin-left: 40px;
+  font-size: larger;
+  font-weight: 700;
+}
+#trandyproducts div pre{
+    margin-left: 60px;
+    font-size: large;
+  font-weight: 700;
+
+}
+del{
+    opacity: 0.6;
+}
+#trandyproducts div button{
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 12px;
+}

@@ -1,0 +1,18 @@
+#bannertext{
+  position: absolute;
+  top: 160px;
+  left: 580px;
+  
+}
+#bannertext button{
+    margin-left: 170px;
+    font-size: larger;
+    font-weight: 700;
+    padding: 10px;
+    background-color: seashell;
+}
+#bannertext h1{
+    font-size: 60px;
+    margin-bottom: 10px;
+    color:rgb(18, 1, 1);
+}

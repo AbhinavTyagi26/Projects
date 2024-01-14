@@ -1,0 +1,45 @@
+#footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(243, 243, 252);
+}
+#footer div{
+    width: 24%;
+    padding: 14px;
+}
+#footer div h3{
+    padding: 0px;
+    margin-top: 30px;
+}
+
+.quicklinks{
+    width: 16px;
+    height: 16px;
+    rotate: -90deg;    
+    vertical-align: middle;
+}
+
+#footer div ul{
+    margin: 0px;
+    list-style-type: none;
+    font-weight: 500;
+    font-size: 17px;
+    padding: 0px;
+}
+
+#footer div input{
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 80%;
+    border:none;  
+}
+#footer div button{
+    padding: 10px;
+    width: 88%;
+    border:none;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: rgb(243, 110, 110);
+}
